@@ -28,8 +28,10 @@
 
 **Impact:** Facilitated cross-functional workshops to align IT and business teams on project goals. Utilized cloud-based collaboration tools to support remote stakeholder engagement and visualize real-time project workflows.
 
-6. Google Cloud-Based Data Governance Implementation
-Tools: Google Cloud Platform (GCP), Data Catalog, Data Quality, Data Lineage
-Impact: Implemented enterprise-level data governance frameworks in the cloud, ensuring data integrity, security, and traceability to support compliant and accurate reporting across the organization.
+**6. Google Cloud-Based Data Governance Implementation**
+
+**Tools:** Google Cloud Platform (GCP), Data Catalog, Data Quality, Data Lineage
+
+**Impact:** Implemented enterprise-level data governance frameworks in the cloud, ensuring data integrity, security, and traceability to support compliant and accurate reporting across the organization.
 
 
